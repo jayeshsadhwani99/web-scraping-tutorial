@@ -1,0 +1,17 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "Web scraping is the process of extracting data from websites using `automated tools`. This data can then be used for a variety of purposes, such as `market research`, `data analysis`, and `lead generation`. One of the main advantages of web scraping is that it can provide access to data that would otherwise be difficult or impossible to obtain. This data can be used to gain insights into customer behavior, track industry trends, and monitor competitor activity. However, web scraping also has some disadvantages. One of the main drawbacks is that it can violate website terms of service or copyright laws. We can do web scraping using Nodejs using npm packages like `cheerio` and `puppeteer`",
+  "main": "link_preview.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^19.8.0"
+  }
+}
