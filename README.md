@@ -56,3 +56,10 @@ Here is how you can create a basic project structure for using Cheerio and Puppe
 8. Run the code using Node.js by executing the command `node index.js` in your terminal or command prompt.
 
 ## Building a Link Preview System
+
+A link preview is a snippet of information that appears when you share a link on social media or messaging apps. It typically includes a title, description, and image from the linked website. Web scraping can be used to extract this information and create link previews automatically for websites that don't provide them natively.
+
+We will be building this using cheerio and see how it works in the nodejs environment
+
+To run the link preview, in your terminal, run the following command:
+`node link_preview.js`
