@@ -79,3 +79,9 @@ We can edit the options by using path and format to change where to store the pd
 In this project, we are going to find prices of different items on various shopping websites, like amazon and myntra using the puppeteer library along with cheerio using what we learnt earlier.
 We visit both the sites, enter the product we want in the search and select the first item and access the value using cheerio.
 We can now see the price of the product in one place using our code
+
+## Resources
+
+You can read more about
+Puppeteer: [Official Documentation](https://github.com/puppeteer/puppeteer)
+Cheerio: [Official Documentation](https://github.com/cheeriojs/cheerio)
