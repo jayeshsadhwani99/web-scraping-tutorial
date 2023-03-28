@@ -63,3 +63,13 @@ We will be building this using cheerio and see how it works in the nodejs enviro
 
 To run the link preview, in your terminal, run the following command:
 `node link_preview.js`
+
+## Taking a screenshot with puppeteer
+
+Not exactly a use case of web-scraping, but puppeteer can do much more. It can be used to interact with a website, load content and even take screenshots. Now we will try to see how it works.
+We can easily take the screenshot of a website using puppeteer by using the
+`page.screenshot()` command.
+We can edit the options by taking various options, like path.
+
+To convert the page to pdf, we can use the `page.pdf()` command.
+We can edit the options by using path and format to change where to store the pdf and the format
